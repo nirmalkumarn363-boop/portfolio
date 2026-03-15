@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nirmal Kumar Portfolio</title>
+<style>
+body{
+font-family: Arial;
+text-align:center;
+background:#f5f5f5;
+}
+header{
+background:#333;
+color:white;
+padding:20px;
+}
+section{
+margin:20px;
+padding:20px;
+background:white;
+border-radius:10px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Nirmal Kumar</h1>
+<p>AI & Data Science Student</p>
+</header>
+
+<section>
+<h2>About Me</h2>
+<p>I am Nirmal Kumar studying Artificial Intelligence and Data Science.</p>
+</section>
+
+<section>
+<h2>Skills</h2>
+<p>Python | Machine Learning | Web Development</p>
+</section>
+
+<section>
+<h2>Projects</h2>
+<p>AI Chatbot</p>
+<p>Student Management System</p>
+</section>
+
+<section>
+<h2>Contact</h2>
+<p>Email: nirmal@email.com</p>
+</section>
+
+</body>
+</html>
